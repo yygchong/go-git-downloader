@@ -1,0 +1,31 @@
+<Manifest>
+  <name>test</name>
+  <version>1.0</version>
+  <Project>
+    <filename>folder1/googletest</filename>
+    <url>git@github.com:google/googletest.git</url>
+    <branch>master</branch>
+    <commit>56de7cc8b5548c2ab97cee805fe510e5b83687ea</commit>
+  </Project>
+  <Project>
+    <filename>folder1/verible</filename>
+    <url>git@github.com:google/verible.git</url>
+    <branch>gh-pages</branch>
+  </Project>
+  <Project>
+    <filename>folder2/agi</filename>
+    <url>git@github.com:google/agi.git</url>
+    <branch>master</branch>
+  </Project>
+  <Project>
+    <filename>folder2/gvisor</filename>
+    <url>git@github.com:google/gvisor.git</url>
+    <branch>go</branch>
+    <commit>c15b8515eb4a07699e5f2401f0332286f0a51043</commit>
+  </Project>
+  <Project>
+    <filename>folder3/kotlin</filename>
+    <url>git@github.com:google/kotlin.git</url>
+    <branch>goldmaster</branch>
+  </Project>
+</Manifest>
